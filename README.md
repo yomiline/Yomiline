@@ -6,17 +6,22 @@ The project focuses on building a strong visual identity, creating engaging cont
 ________________________________________
 Team Members 
 -	Amr Ashraf – Team Leader & Designer
+  
 Primary: Team coordination and project direction - Developing the marketing strategy - Content planning and supervising final outputs.
 Secondary: Copywriting & branding guidance - Designing selected visuals - Preparing the final presentation.
 -	Abanoub Wageih – Media Buyer
+  
 Primary: Managing paid advertising campaigns - Audience targeting and budget allocation
 Secondary: Analytics, content optimization, engagement tracking.
 -	Ahmed Ibrahim – Content Creator
+  
 Primary: Scriptwriting for videos - Writing social media posts & storytelling.
 Secondary: Trend research - Product description writing. 
 -	Baligh Abd Elhamed - Graphic Design
+  
 Visual design, brand identity, and creative layouts.
 -	Toqa Ramadan - Social Media Manager
+  
 Primary: Managing social media pages - Scheduling posts and handling customer messages - Community management.
 ________________________________________
 Work Plan
