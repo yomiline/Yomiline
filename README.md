@@ -1,8 +1,9 @@
 Yomiline | يوميلين
 ________________________________________
 Project Idea
-Yomiline is an Egyptian natural beauty brand specializing in skincare and haircare products made from safe, body-friendly natural ingredients. Developed under the supervision of expert Egyptian pharmacists, the brand aims to provide an effective, safe, and unique self-care experience.
-The project focuses on building a strong visual identity, creating engaging content, and boosting brand awareness and sales through a strategic marketing and design plan.________________________________________
+Yomiline is an Egyptian natural beauty brand specializing in skincare and haircare products made from safe, body-friendly natural ingredients. Developed under the supervision of expert Egyptian pharmacists, the brand aims to provide an effective, secure, and unique self-care experience.
+The project focuses on building a strong visual identity, creating engaging content, and boosting brand awareness and sales through a strategic marketing and design plan.
+________________________________________
 Team Members 
 -	Amr Ashraf – Team Leader & Designer
 Primary: Team coordination and project direction - Developing the marketing strategy - Content planning and supervising final outputs.
@@ -45,7 +46,8 @@ Instructor
 ________________________________________
 Project Files
 You can find the full project files here:
-Google Drive Project Files
+[Google Drive Project Files
+](https://drive.google.com/drive/folders/1grRaMqRHWvSZXUWAENHlEV-fqPg9THRZ?usp=sharing)
 ________________________________________
 License
 All rights reserved © 2025 yomiline
