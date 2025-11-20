@@ -12,10 +12,12 @@ Secondary: Copywriting & branding guidance - Designing selected visuals - Prepar
 -	Abanoub Wageih – Media Buyer
   
 Primary: Managing paid advertising campaigns - Audience targeting and budget allocation
+
 Secondary: Analytics, content optimization, engagement tracking.
 -	Ahmed Ibrahim – Content Creator
   
 Primary: Scriptwriting for videos - Writing social media posts & storytelling.
+
 Secondary: Trend research - Product description writing. 
 -	Baligh Abd Elhamed - Graphic Design
   
