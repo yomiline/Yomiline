@@ -53,7 +53,7 @@ Instructor
 ________________________________________
 Project Files
 You can find the full project files here:
-[Google Drive Project Files
+[Project Files
 ](https://drive.google.com/drive/folders/1grRaMqRHWvSZXUWAENHlEV-fqPg9THRZ?usp=sharing)
 ________________________________________
 License
